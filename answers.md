@@ -81,3 +81,26 @@ On branch master
 Your branch is up to date with 'origin/master'.  
 
 nothing to commit, working tree clean  
+
+------------------------------------------------------------------------
+
+ANSWER 10:   
+Nope.  
+
+------------------------------------------------------------------------
+
+ANSWER 11: An error occurs.  
+
+hint: Updates were rejected because the remote contains work that you do  
+hint: not have locally. This is usually caused by another repository pushing  
+hint: to the same ref. You may want to first integrate the remote changes  
+hint: (e.g., 'git pull ...') before pushing again.  
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.  
+
+---------------------------------------------------------------------------------
+
+ANSWER 12: 
+
+Yup, README has the class information now.
+
+----------------------------------------------------------
