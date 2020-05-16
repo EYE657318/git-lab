@@ -104,3 +104,12 @@ ANSWER 12:
 Yup, README has the class information now.
 
 ----------------------------------------------------------
+
+ANSWER 13: 
+
+Get-ChildItem : Parameter cannot be processed because the parameter name 'a' is ambiguous. Possible matches include: -Attributes -Directory -File -Hidden -ReadOnly -System.
+At line:1 char:4  
++ ls -a  
++    ~~  
+    + CategoryInfo          : InvalidArgument: (:) [Get-ChildItem], ParameterBindingException  
+    + FullyQualifiedErrorId : AmbiguousParameter,Microsoft.PowerShell.Commands.GetChildItemCommand  
